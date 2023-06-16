@@ -1,0 +1,35 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   background-color: rgb(30, 86, 136);
+   color: white;
+}
+
+span{
+   font-size: 90px;
+   margin: 5px;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+#horas, #minutos, #segundos{
+   box-shadow: 10px 10px 15px rgba(170, 195, 30, 0.798);
+}
+
+
+
+@media (max-width: 500px){
+   span{
+      font-size: 50px;
+      margin: 0;
+   }
+}
