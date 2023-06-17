@@ -25,9 +25,7 @@ span{
    box-shadow: 10px 10px 15px rgba(170, 195, 30, 0.798);
 }
 
-
-
-@media (max-width: 500px){
+@media (max-width: 600px){
    span{
       font-size: 50px;
       margin: 0;
