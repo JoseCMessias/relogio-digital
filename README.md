@@ -2,7 +2,7 @@
 
 ## 📃 Sobre
 
-Atividade prática proposta no curso de formação em Desenvolvimento Web do Alicerce Educação em parceria com a Foco. Foi proposto o desenvolvimento de um **Relógio Digital** usando HTML, CSS e JavaScript.
+No curso de formação em Desenvolvimento Web oferecido pela Alicerce Educação em parceria com a Foco, foi proposta uma atividade prática emocionante: desenvolver um Relógio Digital utilizando HTML, CSS e JavaScript.
 
 ## 💡 Tecnologias 
 
