@@ -20,7 +20,6 @@ Essas foram as tecnologias usadas no desenvolvimento do Relógio Digital
 
 ## 👣 Como testar?
 
-
 * [Click **AQUI**](https://josecmessias.github.io/relogio-digital/)
 
 
